@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "title": "Cat",
+        "desc": "This is a cat",
+        "bigImg":"1.png",
+        "thumbnail": "1.png"
+    },
+    {
+        "id": 2,
+        "title": "Dog",
+        "desc": "This is a dog",
+        "bigImg":"2.png",
+        "thumbnail": "2.png"
+    },
+    {
+        "id": 3,
+        "title": "Elephant",
+        "desc": "This is a elephant",
+        "bigImg":"3.png",
+        "thumbnail": "3.png"
+    },
+    {
+        "id": 4,
+        "title": "Fox",
+        "desc": "This is a fox",
+        "bigImg":"4.png",
+        "thumbnail": "4.png"
+    },
+    {
+        "id": 5,
+        "title": "Mouse",
+        "desc": "This is a mouse",
+        "bigImg":"5.png",
+        "thumbnail": "5.png"
+    },
+    {
+        "id": 6,
+        "title": "Horse",
+        "desc": "This is a horse",
+        "bigImg":"6.png",
+        "thumbnail": "6.png"
+    },
+    {
+        "id": 7,
+        "title": "Leopord",
+        "desc": "This is a leopord",
+        "bigImg":"7.png",
+        "thumbnail": "7.png"
+    },
+    {
+        "id": 8,
+        "title": "Lion",
+        "desc": "This is a lion",
+        "bigImg":"8.png",
+        "thumbnail": "8.png"
+    },
+    {
+        "id": 9,
+        "title": "Monkey",
+        "desc": "This is a monkey",
+        "bigImg":"9.png",
+        "thumbnail": "9.png"
+    },
+    {
+        "id": 10,
+        "title": "Pig",
+        "desc": "This is a pig",
+        "bigImg":"10.png",
+        "thumbnail": "10.png"
+    },
+    {
+        "id": 11,
+        "title": "Tiger",
+        "desc": "This is a tiger",
+        "bigImg":"11.png",
+        "thumbnail": "11.png"
+    },
+    {
+        "id": 12,
+        "title": "Zibra",
+        "desc": "This is a zibra",
+        "bigImg":"12.png",
+        "thumbnail": "12.png"
+    }
+]

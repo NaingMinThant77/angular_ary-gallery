@@ -1,0 +1,6 @@
+<div class="container bigCon" *ngIf="selectImage">
+    <div class="col-md-10 offset-md-3">
+        <button class="btn btn-danger float-right" (click)="hideImage()">Close</button>
+        <img src="../../../assets/images/{{selectImage.bigImg}}" alt="" class="img-fluid fixed-size-image">
+    </div>
+</div>

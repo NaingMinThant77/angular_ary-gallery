@@ -1,0 +1,11 @@
+<!-- <app-image-detail [selectedImage]="selectedImage"></app-image-detail> -->
+
+<div class="container my-5">
+    <div class="row">
+        <div class="col-md-4" *ngFor="let image of images" (click)="setSelectedImage(image)">
+            <div class="card">
+                <app-image [image]="image"></app-image>
+            </div>
+        </div>
+    </div>
+</div>

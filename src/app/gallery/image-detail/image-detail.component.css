@@ -1,0 +1,10 @@
+.fixed-size-image {
+    width: 800px; 
+    height: 400px; 
+    margin: 10px;
+}
+
+.bigCon {
+    position: fixed;
+    z-index: 1000;
+}
